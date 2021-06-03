@@ -1,0 +1,70 @@
+*{
+    margin: 2px;
+}
+
+
+.cuadros_1{
+  background-color: aquamarine;
+  width: 400px;
+  height: 400px;
+  float: left;
+border-radius: 20%;
+    
+  margin: 40px;  
+}
+.cuadros_2{
+background-color: aquamarine;
+width: 400px;
+height: 400px;
+float: right;
+margin: 40px;
+border-radius: 20%;
+}
+.cuadros_3{
+background-color:aquamarine;
+width: 400px;
+height: 400px;
+float: left;
+margin: 40px;
+border-radius: 20%;
+}
+.cuadros_4{
+background-color: darkblue;
+width: 400px;
+height: 400px;
+float: right;
+margin: 40px;
+border-radius: 20%;
+}
+.cuadros_5{
+background-color:darkblue;
+width: 400px;
+height: 400px;
+float: left;
+margin: 40px;
+border-radius: 20%;
+}
+.cuadros_6{
+background-color: aquamarine;
+width: 400px;
+height: 400px;
+float: right; margin: 40px;
+border-radius: 20%;
+}
+.cuadros_7{
+background-color: aquamarine;
+width: 400px;
+height: 400px;
+float: left;
+margin: 40px;
+border-radius: 20%;
+}
+.cuadros_8{
+background-color: darkblue;
+width: 400px;
+height: 400px;
+float: right;
+margin: 40px;
+border-radius: 20%;
+}
+  
