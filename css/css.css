@@ -1,70 +1,71 @@
 *{
-    margin: 2px;
+    margin: 0.2rem;
 }
-
-
+html{
+    font-size: 62.5%
+}
 .cuadros_1{
   background-color: aquamarine;
-  width: 400px;
-  height: 400px;
+  width: 40rem;
+  height: 40rem;
   float: left;
 border-radius: 20%;
     
-  margin: 40px;  
+  margin: 4rem;  
 }
 .cuadros_2{
 background-color: aquamarine;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: right;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_3{
 background-color:aquamarine;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: left;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_4{
 background-color: darkblue;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: right;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_5{
 background-color:darkblue;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: left;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_6{
 background-color: aquamarine;
-width: 400px;
-height: 400px;
-float: right; margin: 40px;
+width: 40rem;
+height: 40rem;
+float: right; margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_7{
 background-color: aquamarine;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: left;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
 .cuadros_8{
 background-color: darkblue;
-width: 400px;
-height: 400px;
+width: 40rem;
+height: 40rem;
 float: right;
-margin: 40px;
+margin: 4rem;
 border-radius: 20%;
 }
   
